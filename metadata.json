@@ -1,0 +1,6 @@
+{
+  "name": "The Hundred — Heavendoo Foundation Hisar",
+  "description": "Founding Green Council civic impact, live progress tracker, and donation platform for deploying 100+ self-sustaining zero-plastic eco-benches across Hisar by Heavendoo Foundation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
